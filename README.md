@@ -8,10 +8,10 @@ This project is a Java-based application developed to practice object-oriented p
 
 ## Features
 
-* Manage airline-related information
-* Handle flight and passenger details
-* Perform basic management operations
-* Simple and easy-to-understand project structure
+* Manage airline-related information.
+* Handle flight and passenger details.
+* Perform basic management operations.
+* Simple and easy-to-understand project structure.
 
 ## Technologies Used
 
